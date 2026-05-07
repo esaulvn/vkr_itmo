@@ -1,0 +1,157 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{ivanov2019}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=a70dbae02f6ada34f4871cf18e8f926d}{%
+           family={Иванов},
+           familyi={И\bibinitperiod},
+           given={И.\bibnamedelimi И.},
+           giveni={И\bibinitperiod\bibinitdelim И\bibinitperiod}}}%
+        {{hash=f905ebf57d59a975a8416302bc876807}{%
+           family={Петров},
+           familyi={П\bibinitperiod},
+           given={П.\bibnamedelimi П.},
+           giveni={П\bibinitperiod\bibinitdelim П\bibinitperiod}}}%
+      }
+      \strng{namehash}{aec9cb808788ae9eb895ce0a319edac5}
+      \strng{fullhash}{aec9cb808788ae9eb895ce0a319edac5}
+      \strng{fullhashraw}{aec9cb808788ae9eb895ce0a319edac5}
+      \strng{bibnamehash}{aec9cb808788ae9eb895ce0a319edac5}
+      \strng{authorbibnamehash}{aec9cb808788ae9eb895ce0a319edac5}
+      \strng{authornamehash}{aec9cb808788ae9eb895ce0a319edac5}
+      \strng{authorfullhash}{aec9cb808788ae9eb895ce0a319edac5}
+      \strng{authorfullhashraw}{aec9cb808788ae9eb895ce0a319edac5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{12}
+      \field{journaltitle}{Журнал машинного обучения}
+      \field{title}{Ансамблевые методы повышения точности классификации данных}
+      \field{year}{2019}
+      \true{nocite}
+      \field{number}{3}
+      \range{number}{1}
+      \field{pages}{15\bibrangedash 28}
+      \range{pages}{14}
+      \field{volume}{12}
+      \range{volume}{1}
+    \endentry
+    \entry{smith2020}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=b18f02a97cf23823923df8c18784f5df}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e6730bc6d9d28966c86cf301050946e1}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{de59545154ce47b48052d9b9fe24ec1b}
+      \strng{fullhash}{de59545154ce47b48052d9b9fe24ec1b}
+      \strng{fullhashraw}{de59545154ce47b48052d9b9fe24ec1b}
+      \strng{bibnamehash}{de59545154ce47b48052d9b9fe24ec1b}
+      \strng{authorbibnamehash}{de59545154ce47b48052d9b9fe24ec1b}
+      \strng{authornamehash}{de59545154ce47b48052d9b9fe24ec1b}
+      \strng{authorfullhash}{de59545154ce47b48052d9b9fe24ec1b}
+      \strng{authorfullhashraw}{de59545154ce47b48052d9b9fe24ec1b}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{internalsortvolume}{34}
+      \field{journaltitle}{Journal of Machine Learning Research}
+      \field{title}{Deep Learning Approaches for Data Classification}
+      \field{year}{2020}
+      \true{nocite}
+      \field{number}{4}
+      \range{number}{1}
+      \field{pages}{227\bibrangedash 246}
+      \range{pages}{20}
+      \field{volume}{34}
+      \range{volume}{1}
+    \endentry
+    \entry{goodfellow2016}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=97448a3cf6f5cb771679d00efeb7782c}{%
+           family={Goodfellow},
+           familyi={G\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=419350ebbeb4eba5351469f378dee007}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=0162d284c680646fe3354338106399ce}{%
+           family={Courville},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{046a68a306553a04a7fa3dbd33c044bb}
+      \strng{fullhash}{046a68a306553a04a7fa3dbd33c044bb}
+      \strng{fullhashraw}{046a68a306553a04a7fa3dbd33c044bb}
+      \strng{bibnamehash}{046a68a306553a04a7fa3dbd33c044bb}
+      \strng{authorbibnamehash}{046a68a306553a04a7fa3dbd33c044bb}
+      \strng{authornamehash}{046a68a306553a04a7fa3dbd33c044bb}
+      \strng{authorfullhash}{046a68a306553a04a7fa3dbd33c044bb}
+      \strng{authorfullhashraw}{046a68a306553a04a7fa3dbd33c044bb}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Deep Learning}
+      \field{year}{2016}
+      \true{nocite}
+    \endentry
+    \entry{gost7322017}{misc}{}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{note}{М.: Стандартинформ, 2017. 32 с.}
+      \field{title}{ГОСТ 7.32-2017. Система стандартов по информации, библиотечному и издательскому делу. Отчет о научно-исследовательской работе. Структура и правила оформления}
+      \field{year}{2017}
+      \true{nocite}
+    \endentry
+    \entry{pytorch2023}{misc}{}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{URL: https://pytorch.org/docs/stable/index.html}
+      \field{note}{дата обращения: 01.03.2025}
+      \field{title}{PyTorch Documentation}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,27 @@
+# Fdb version 4
+["pdflatex"] 1778173326.95371 "c:/Projects/VKR_ITMO_v1/main.tex" "main.pdf" "main" 1778173327.82079 2
+  "C:/Users/Наталья/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1778014609 13337842 c0746c1a0ccd6b4f146200bf4b452fc1 ""
+  "C:/Users/Наталья/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Users/Наталья/AppData/Local/Programs/MiKTeX/tex/latex/base/exscale.sty" 1761900684 2581 e3b93c96ce990e6e2ffc819a28b77ea9 ""
+  "C:/Users/Наталья/AppData/Local/Programs/MiKTeX/tex/latex/booktabs/booktabs.sty" 1579093635 6253 f1cb470c9199e7110a27851508ed7a5c ""
+  "C:/Users/Наталья/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption.sty" 1696169587 56128 c2ccf1a29d78c33bc553880402e4fb9a ""
+  "C:/Users/Наталья/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption3.sty" 1696169587 72619 ee90b6612147680fd73c3b1406a74245 ""
+  "C:/Users/Наталья/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty" 1759409308 46885 8953c67ffba03252c6090aa19568b8ba ""
+  "C:/Users/Наталья/AppData/Local/Programs/MiKTeX/tex/latex/extsizes/extbook.cls" 947706120 23153 5d917d997215707297eb8e5ef8ea2fc1 ""
+  "C:/Users/Наталья/AppData/Local/Programs/MiKTeX/tex/latex/extsizes/size14.clo" 944556240 6214 cc6d832fdd2fc5f4a20ee1a002f45d0f ""
+  "C:/Users/Наталья/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.sty" 1759156201 3804 debc05110ffb506cef68ea4e72c7bcee ""
+  "C:/Users/Наталья/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1749322634 2671 d9941f4bf4750e9b0603c9a2ec54693b ""
+  "C:/Users/Наталья/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1761202581 30662 bfd6e864f4ffc5018b0e2b6260c3181c ""
+  "C:/Users/Наталья/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty" 1766575363 6558 68088934bcc75d84c96219da6528b8f9 ""
+  "C:/Users/Наталья/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xparse.sty" 1761203377 10176 c2fc1c663b3f3899ddac6e6ed3fb1d7e ""
+  "C:/Users/Наталья/AppData/Local/Programs/MiKTeX/tex/latex/multirow/multirow.sty" 1731767677 6696 886c9f3087d0b973ed2c19aa79cb3023 ""
+  "C:/Users/Наталья/AppData/Local/Programs/MiKTeX/tex/latex/tools/longtable.sty" 1761901070 16014 dfa4b4d4e04a78a3f05a90c19711737a ""
+  "c:/Projects/VKR_ITMO_v1/main.tex" 1778151914 2338 e98b34f1b462a4d349125678177c41c4 ""
+  "main.aux" 1778173318 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.tex" 1778151914 2338 e98b34f1b462a4d349125678177c41c4 ""
+  "preamble.tex" 1778144278 5254 e2648405cbda610656c9ec41d03d31de ""
+  (generated)
+  "main.aux"
+  "main.log"
+  "main.pdf"
+  (rewritten before read)
