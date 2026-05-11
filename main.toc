@@ -1,0 +1,92 @@
+\contentsline {chapter}{СПИСОК СОКРАЩЕНИЙ И УСЛОВНЫХ ОБОЗНАЧЕНИЙ}{5}{}%
+\contentsline {chapter}{ТЕРМИНЫ И ОПРЕДЕЛЕНИЯ}{6}{}%
+\contentsline {chapter}{ВВЕДЕНИЕ}{9}{}%
+\contentsline {chapter}{\numberline {1}АНАЛИЗ ЛИТЕРАТУРЫ}{12}{}%
+\contentsline {section}{\numberline {1.1}Структура и организация научных и исследовательских задач}{12}{}%
+\contentsline {subsection}{\numberline {1.1.1}Научный процесс как пайплайн с обратной связью}{12}{}%
+\contentsline {subsection}{\numberline {1.1.2}Основные этапы и артефакты научной задачи}{13}{}%
+\contentsline {subsection}{\numberline {1.1.3}Проблемы организации научного процесса}{14}{}%
+\contentsline {subsection}{\numberline {1.1.4}Вывод}{14}{}%
+\contentsline {section}{\numberline {1.2}Инструменты автоматизации научных задач}{15}{}%
+\contentsline {subsection}{\numberline {1.2.1}Инструменты частичной автоматизации}{15}{}%
+\contentsline {subsection}{\numberline {1.2.2}Системы автоматизации экспериментов и scientific workflows}{16}{}%
+\contentsline {subsection}{\numberline {1.2.3}Инструменты на базе искусственного интеллекта}{17}{}%
+\contentsline {subsection}{\numberline {1.2.4}Сравнительный анализ и ограничения существующих подходов}{17}{}%
+\contentsline {subsection}{\numberline {1.2.5}Выводы}{18}{}%
+\contentsline {section}{\numberline {1.3}Автоматизация научных задач агентными системами}{19}{}%
+\contentsline {subsection}{\numberline {1.3.1}От одиночных агентов к мультиагентным системам}{20}{}%
+\contentsline {subsection}{\numberline {1.3.2}Современные архитектуры LLM-агентов и их ограничения}{21}{}%
+\contentsline {subsection}{\numberline {1.3.3}Агентные системы для научного процесса}{22}{}%
+\contentsline {subsection}{\numberline {1.3.4}Архитектурные подходы к построению научных агентных систем}{24}{}%
+\contentsline {subsection}{\numberline {1.3.5}Сравнение архитектурных подходов}{25}{}%
+\contentsline {subsection}{\numberline {1.3.6}Выводы}{27}{}%
+\contentsline {section}{\numberline {1.4}Фреймворк OpenClaw и система ClawdLab}{28}{}%
+\contentsline {subsection}{\numberline {1.4.1}OpenClaw как инфраструктурная основа}{28}{}%
+\contentsline {subsection}{\numberline {1.4.2}ClawdLab как лабораторная надстройка над OpenClaw}{29}{}%
+\contentsline {subsection}{\numberline {1.4.3}Текущая организация процесса в ClawdLab}{31}{}%
+\contentsline {subsection}{\numberline {1.4.4}Сильные стороны и ограничения OpenClaw/ClawdLab}{32}{}%
+\contentsline {subsection}{\numberline {1.4.5}Связь с дальнейшим образом решения TO BE}{34}{}%
+\contentsline {section}{\numberline {1.5}Образ целевого решения TO BE и архитектурная гипотеза}{35}{}%
+\contentsline {subsection}{\numberline {1.5.1}Переход от AS IS к TO BE}{35}{}%
+\contentsline {subsection}{\numberline {1.5.2}Структурированная память исследования}{36}{}%
+\contentsline {subsection}{\numberline {1.5.3}Циклическая модель выполнения задач}{37}{}%
+\contentsline {subsection}{\numberline {1.5.4}Границы целевого решения}{38}{}%
+\contentsline {subsection}{\numberline {1.5.5}Ожидаемые эффекты от целевого решения}{39}{}%
+\contentsline {subsection}{\numberline {1.5.6}Архитектурная гипотеза}{39}{}%
+\contentsline {subsection}{\numberline {1.5.7}Визуализация AS IS и TO BE архитектур}{40}{}%
+\contentsline {chapter}{\numberline {2}ДИЗАЙН ЭКСПЕРИМЕНТОВ}{43}{}%
+\contentsline {section}{\numberline {2.1}Постановка экспериментальной задачи}{43}{}%
+\contentsline {subsection}{\numberline {2.1.1}Типы научных задач, поддерживаемые ClawdLab}{43}{}%
+\contentsline {subsection}{\numberline {2.1.2}Границы эксперимента}{44}{}%
+\contentsline {subsection}{\numberline {2.1.3}Исследовательский вопрос и ожидаемые эффекты}{45}{}%
+\contentsline {section}{\numberline {2.2}Обзор инструментов, технологий и методов для экспериментальной реализации}{45}{}%
+\contentsline {subsection}{\numberline {2.2.1}Требования к выбираемым технологиям}{46}{}%
+\contentsline {subsection}{\numberline {2.2.2}Технологии структурированной памяти}{46}{}%
+\contentsline {subsection}{\numberline {2.2.3}Технологии циклического выполнения задач}{49}{}%
+\contentsline {subsection}{\numberline {2.2.4}Инструменты оркестрации и реализации}{52}{}%
+\contentsline {subsection}{\numberline {2.2.5}Выбор подходов для экспериментальной реализации}{53}{}%
+\contentsline {section}{\numberline {2.3}Экспериментальные данные и задачи}{54}{}%
+\contentsline {subsection}{\numberline {2.3.1}Выбор типов задач для оценки}{54}{}%
+\contentsline {subsection}{\numberline {2.3.2}Задачи анализа научной информации}{55}{}%
+\contentsline {subsection}{\numberline {2.3.3}Задачи глубокого исследования}{55}{}%
+\contentsline {subsection}{\numberline {2.3.4}Подготовка входных данных и эталонных результатов}{56}{}%
+\contentsline {section}{\numberline {2.4}Экспериментальные конфигурации}{57}{}%
+\contentsline {subsection}{\numberline {2.4.1}Базовая конфигурация ClawdLab}{57}{}%
+\contentsline {subsection}{\numberline {2.4.2}Конфигурация со структурированной памятью}{57}{}%
+\contentsline {subsection}{\numberline {2.4.3}Конфигурация с циклическим процессом}{58}{}%
+\contentsline {subsection}{\numberline {2.4.4}Итоговая конфигурация с обеими доработками}{58}{}%
+\contentsline {subsection}{\numberline {2.4.5}Абляционное сравнение}{59}{}%
+\contentsline {section}{\numberline {2.5}Методика оценки}{59}{}%
+\contentsline {subsection}{\numberline {2.5.1}Общая логика валидации}{59}{}%
+\contentsline {subsection}{\numberline {2.5.2}Метрики аналитика}{60}{}%
+\contentsline {subsection}{\numberline {2.5.3}Метрики синтезатора}{61}{}%
+\contentsline {subsection}{\numberline {2.5.4}Оценка артефактов и трассируемости}{61}{}%
+\contentsline {subsection}{\numberline {2.5.5}Метрики цикличности и использования критики}{62}{}%
+\contentsline {subsection}{\numberline {2.5.6}LLM-судья (LLM-as-a-Judge)}{63}{}%
+\contentsline {subsection}{\numberline {2.5.7}Метрики воспроизводимости и изоляции прогонов}{63}{}%
+\contentsline {subsection}{\numberline {2.5.8}Метрики вычислительной эффективности}{64}{}%
+\contentsline {subsection}{\numberline {2.5.9}Критерии принятия гипотезы}{64}{}%
+\contentsline {subsection}{\numberline {2.5.10}Протокол проведения экспериментов}{66}{}%
+\contentsline {section}{\numberline {2.6}Ожидаемый проверочный прототип}{67}{}%
+\contentsline {subsection}{\numberline {2.6.1}Целевая архитектура экспериментального прототипа}{67}{}%
+\contentsline {subsection}{\numberline {2.6.2}Ожидаемые сценарии работы}{69}{}%
+\contentsline {subsection}{\numberline {2.6.3}Возможности дальнейшего развития прототипа}{70}{}%
+\contentsline {chapter}{\numberline {3}ОПИСАНИЕ ПРЕДЛАГАЕМОГО РЕШЕНИЯ}{72}{}%
+\contentsline {section}{\numberline {3.1}Архитектура продакшн-решения и System Design}{72}{}%
+\contentsline {subsection}{\numberline {3.1.1}Цели и требования к целевой архитектуре}{72}{}%
+\contentsline {subsection}{\numberline {3.1.2}Логическая структура решения}{73}{}%
+\contentsline {subsection}{\numberline {3.1.3}Физическое развертывание на VPS-сервере}{73}{}%
+\contentsline {section}{\numberline {3.2}Разработка сервиса и MVP-интеграция}{74}{}%
+\contentsline {subsection}{\numberline {3.2.1}Базовый контур MVP}{74}{}%
+\contentsline {subsection}{\numberline {3.2.2}Доработка literature provider}{74}{}%
+\contentsline {subsection}{\numberline {3.2.3}Архитектура модуля структурированной памяти}{75}{}%
+\contentsline {subsection}{\numberline {3.2.4}Архитектура доработки цикличности исполнения}{78}{}%
+\contentsline {section}{\numberline {3.3}Развертывание, DevOps и MLOps-практики}{79}{}%
+\contentsline {subsection}{\numberline {3.3.1}Организация развертывания и запуск сервисов}{79}{}%
+\contentsline {section}{\numberline {3.4}Тестирование и верификация решения}{79}{}%
+\contentsline {subsection}{\numberline {3.4.1}План тестирования и валидации}{79}{}%
+\contentsline {chapter}{\numberline {4}РЕЗУЛЬТАТЫ ЭКСПЕРИМЕНТА}{80}{}%
+\contentsline {section}{\numberline {4.1}Реализация доработки со структурированной памятью}{80}{}%
+\contentsline {section}{\numberline {4.2}Итоговое сравнение метрик между конфигурациями}{80}{}%
+\contentsline {chapter}{ЗАКЛЮЧЕНИЕ}{81}{}%
+\contentsline {chapter}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{81}{}%
